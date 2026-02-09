@@ -1,0 +1,31 @@
+body {
+    background-color: #E9FCE9; 
+    font-family: sans-serif;
+}
+header {
+    background-color: #c3ffb4;
+}
+
+main p {
+    background-color: white;
+    padding-left: 52px;
+}
+h6{
+    text-align: center;
+}
+
+.fikus{
+    margin-left:30px;
+}
+
+.crassula{
+    margin-left:30px;
+}
+
+a {
+   text-decoration: none;
+   margin-left: 135px;
+   color:black;
+   border: 2px solid black;
+   padding: 2px;
+}
